@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Что когда есть?
 
-You can use the [editor on GitHub](https://github.com/dimonier/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Ранний завтрак
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+По теории правильного питания выходит, что утром нужно есть медленные углеводы.
+По аюрведе считается, что утром ЖКТ работает не на вход, а на выход, поэтому лучше не есть ничего.
+Так что лучшим выходом будет просто попить воды. С поллитра.
 
-### Markdown
+## Поздний завтрак
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Вот теперь самое время для медленных улеводов. Т.е. для чего-то, сделанного из [злаков](http://health-diet.ru/base_of_food/food_24522/).
+[Семечки подсолнечника](http://health-diet.ru/base_of_food/sostav/282.php) не катят, там в основном жир.
 
-```markdown
-Syntax highlighted code block
+## Обед
 
-# Header 1
-## Header 2
-### Header 3
+Должен быть самым питательным. Белки, жиры - сюда. Углеводов тоже можно, но не много.
+Универсальный перекус, сыроедный хлебосыр, майонез.
 
-- Bulleted
-- List
+## Ужин
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dimonier/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Вроде как должен быть без углеводов совсем, хотя вечером как раз их и хочется.
